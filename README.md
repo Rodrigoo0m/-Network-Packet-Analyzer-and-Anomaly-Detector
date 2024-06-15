@@ -31,7 +31,7 @@ Ensure you have the following installed:
 To run the script, ensure you have administrator privileges, as packet sniffing requires elevated permissions.
 
 ```bash
-sudo python packet_analyzer.py
+sudo python main.py
 ```
 
 ### Description
